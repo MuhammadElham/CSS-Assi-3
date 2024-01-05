@@ -1,0 +1,140 @@
+.row{
+display: flex;
+font-size: 70px;
+text-align: center;
+justify-content: center;
+align-items: center;
+}
+.box{
+    height: 100px;
+    width:100px;
+    border-width: 1px;
+    border-style: solid;
+       
+}
+.row1 .box2{
+    background-color: black;
+    color: white;
+}
+.row1 .box4{
+    background-color: black;
+    color: white;
+}
+.row1 .box6{
+    background-color: black;
+    color: white;
+}
+.row1 .box8{
+    background-color: black;
+    color: white;
+}
+
+.row3 .box2{
+    background-color: black;
+}
+.row3 .box4{
+    background-color: black;
+}
+.row3 .box6{
+    background-color: black;
+}
+.row3 .box8{
+    background-color: black;
+} 
+
+.row5 .box2{
+    background-color: black;
+}
+.row5 .box4{
+    background-color: black;
+}
+.row5 .box6{
+    background-color: black;
+}
+.row5 .box8{
+    background-color: black;
+}
+
+.row7 .box2{
+    background-color: black;
+    color: white;
+}
+.row7 .box4{
+    background-color: black;
+    color: white;
+}
+.row7 .box6{
+    background-color: black;
+    color: white;
+}
+.row7 .box8{
+    background-color: black;
+    color: white;
+}
+ /* ROW 2 */
+.row2 .box1{
+    background-color: black;
+    color: white;
+}
+.row2 .box3{
+    background-color: black;
+    color: white;
+}
+.row2 .box5{
+    background-color: black;
+    color: white;
+}
+.row2 .box7{
+    background-color: black;
+    color: white;
+}
+
+.row4 .box1{
+    background-color: black;
+}
+.row4 .box3{
+    background-color: black;
+}
+.row4 .box5{
+    background-color: black;
+}
+.row4 .box7{
+    background-color: black;
+}
+
+.row6 .box1{
+    background-color: black;
+}
+.row6 .box3{
+    background-color: black;
+}
+.row6 .box5{
+    background-color: black;
+}
+.row6 .box7{
+    background-color: black;
+}
+
+.row8 .box1{
+    background-color: black;
+    color: white;
+}
+.row8 .box3{
+    background-color: black;
+    color: white;
+}
+.row8 .box5{
+    background-color: black;
+    color: white;
+}
+.row8 .box7{
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+
+
